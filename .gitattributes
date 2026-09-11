@@ -1,0 +1,15 @@
+# Do not edit manually
+*.json linguist-detectable=false
+
+dist/* linguist-vendored
+
+build/* linguist-vendored
+*.woff2 binary
+src/*.astro linguist-detectable
+*.yml linguist-detectable=false
+*.md linguist-documentation
+
+*.htm linguist-vendored
+
+*.woff binary
+# eof a594b233
