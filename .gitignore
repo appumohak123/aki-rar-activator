@@ -1,0 +1,8 @@
+.env.local
+coverage/
+dist/
+build/
+.DS_Store
+.pnpm-store/
+.cache/
+*.tgz
